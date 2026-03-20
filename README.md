@@ -1,2 +1,3 @@
-# fast-file-sharing-z1wb
+# Fast File Sharing Z1Wb
+
 A repository to test GitHub automation for issue management.
